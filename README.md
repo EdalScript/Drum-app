@@ -1,3 +1,3 @@
 # Drums kit app V1.0
 
-Emulates the sound of an acoustic drums on your keyboard.
+Emulates the sounds of an acoustic drums using your keyboard.
